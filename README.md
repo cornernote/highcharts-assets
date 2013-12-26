@@ -1,5 +1,4 @@
-js-highcharts
-=============
+# HighCharts Assets
 
 This package contains assets only.  
 
